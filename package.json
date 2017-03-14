@@ -1,0 +1,27 @@
+{
+  "name": "electron-party",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/party.js",
+  "engines": {
+    "node" : ">=5.6"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^1.6.3"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "./test/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjaniszew/electron-party.git"
+  },
+  "author": "Michal Janiszewski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjaniszew/electron-party/issues"
+  },
+  "homepage": "https://github.com/mjaniszew/electron-party#readme"
+}
