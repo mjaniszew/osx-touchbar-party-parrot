@@ -1,7 +1,7 @@
 {
   "name": "osx-touchbar-party-parrot",
   "version": "0.0.1",
-  "description": "",
+  "description": "Use Electron to display Party Parrots on MacBooks Pro Touch Bar",
   "main": "src/party.js",
   "engines": {
     "node" : ">=5.6"
