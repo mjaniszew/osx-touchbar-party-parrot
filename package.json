@@ -1,6 +1,6 @@
 {
-  "name": "electron-party",
-  "version": "1.0.0",
+  "name": "osx-touchbar-party-parrot",
+  "version": "0.0.1",
   "description": "",
   "main": "src/party.js",
   "engines": {
