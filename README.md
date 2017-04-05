@@ -11,3 +11,8 @@ It displays Party Parrots on MacBook's Pro Touch Bar using Electron. Because we 
 
 `npm test` to test parrots
 
+### Also worth of checking out:
+
+ - [cultofthepartyparrot.com](http://cultofthepartyparrot.com)
+ - [osx-touchbar-parrots-on-steroids](https://github.com/DariuszMusielak/osx-touchbar-parrots-on-steroids)
+
