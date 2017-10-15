@@ -9,7 +9,7 @@ const parrots = [];
 const initParrots = () => {
     for (let x = 0; x < numOfParrotsToDisplay; x++) {
         parrots.push(new TouchBarButton({
-            icon: path.join(__dirname, '/parrot/parrot000.png'),
+            icon: path.join(__dirname, '/parrot/congaparrot000.png'),
             backgroundColor: '#000'
         }));
     }
@@ -27,7 +27,7 @@ const updateParrotsFrames = () => {
         parrotFrame += 1;
     }
 
-    const parrotPath = path.join(__dirname, `/parrot/parrot00${parrotFrame}.png`);
+    const parrotPath = path.join(__dirname, `/parrot/congaparrot00${parrotFrame}.png`);
     for (let x = 0; x < numOfParrotsToDisplay; x++) {
         parrots[x].icon = parrotPath;
     }
